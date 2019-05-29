@@ -32,7 +32,7 @@
   "range": "{{field}} deve estar entre {{argument.0}} e {{argument.1}}.",
   "regex": "O formato de {{field}} é inválido.",
   "required": "{{field}} é obrigatório e está faltando.",
-  "required_if": "{{field}} é origatório quando {{argument.0}} existir.",
+  "required_if": "{{field}} é obrigatório quando {{argument.0}} existir.",
   "required_when": "{{field}} é obrigatório quando o valor de: {{argument.0}} for igual a {{argument.1}}",
   "required_with_all": "{{field}} é obrigatório quando todos: ({{argument}}) estiverem presentes.",
   "required_with_any": "{{field}} é obrigatório quando pelo menos destes: ({{argument}}) estiver presente.",
